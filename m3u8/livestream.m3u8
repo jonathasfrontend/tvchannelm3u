@@ -1,0 +1,3 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=250000
+http://media.igospel.com.br:1935/live/redegospel/livestream.m3u8?wowzasessionid=188635405
